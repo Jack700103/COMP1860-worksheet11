@@ -6,6 +6,12 @@ D=D^M
 @R2
 M=D           
 
+(END)
+
+
+
+
+
 //@R0: Load the address of register R0 into register A.
 //D=M: Load the value of the memory unit (i.e. R0) pointed to by register A into register D.
 //@R1: Load the address of register R1 into register A.
